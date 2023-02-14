@@ -1,0 +1,5 @@
+# 所有的__pycache__
+**/__pycache__
+# IDE的数据
+.idea/
+/instance/
