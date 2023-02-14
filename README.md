@@ -9,6 +9,5 @@
 
 # 使用该代码
 + python3.10
-+ pip install -r .\requir
-ements.txt
++ pip install -r .\requirements.txt
 + flask run --host=0.0.0.0 --port 9999
